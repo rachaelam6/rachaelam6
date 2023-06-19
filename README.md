@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rachael</h1>
 <h3 align="center">Le Wagon graduate and aspiring fullstack developer from London.</h3>
 
-- 🌱 I’m currently learning **React JS, Python, SQL**
+- 🌱 I’m currently learning **React JS, React Native, Python, SQL**
 
 - 📫 How to reach me **rachaelam6@gmail.com, https://www.linkedin.com/in/rachael-miller1**
 
