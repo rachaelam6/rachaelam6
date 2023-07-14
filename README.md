@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rachael</h1>
-<h3 align="center">Le Wagon graduate and aspiring product manager from London.</h3>
+<h3 align="center">Le Wagon graduate, data-enthusiast</h3>
 
 - 🌱 I’m currently learning **React JS, React Native, Python, advanced SQL**
 
